@@ -12,6 +12,8 @@ public static void main(String[] args) {
 	l.add(67866323134l);
 	l.add(true);
 	l.add('u');
+	l.add(12866323134l);
+	l.add(false);
 	for(Object o:l) {
  
 	System.out.println(o);
